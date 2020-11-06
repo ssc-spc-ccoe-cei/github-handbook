@@ -1,2 +1,2 @@
-# development-guide
-Development guide for CCoE projects
+# GitHub Handbook
+GitHub standards for CCoE.
