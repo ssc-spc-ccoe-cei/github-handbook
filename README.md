@@ -10,7 +10,7 @@ If you don't already have a GitHub account, please visit github.com and sign-up.
 3. You'll want to become familiar with a `git` client.  Some options include:
 
 * [GitHub Desktop](https://desktop.github.com/)
-* [VS Code](https://code.microsoft.com) 
+* [VS Code](https://code.visualstudio.com/) 
   * See VS Code's [Working with Git](https://code.visualstudio.com/docs/editor/versioncontrol) for more information.
 
 
